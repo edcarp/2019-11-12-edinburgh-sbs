@@ -102,9 +102,9 @@ address.
 This is held in 3 different rooms within the JCMB: 
 
 <ul>
-  <li>JCMB 1206C: Large teaching studio containing 12 island tables, each with a screen and 6 seats. There's a front display screen next to the lectern but it's not that big and there's a pillar blocking line of sight from some angles. But that shouldn't be an issue for this size of class.
-  <li>JCMB 4325C: Medium sized teaching studio, 8 island tables, each with screen and 6 seats. There's a front projection screen, a bit bigger than 1206C. Lines of sight are good. This is my favourite out of the JCMB studios!
-  <li>JCMB 3211:  Small teaching studio, 4 tables, each with screen and 6 seats. There's a good sized front screen but the room shape makes it hard to see it from some angles.
+  <li>JCMB 1206C: Large teaching studio containing 12 island tables, each with a screen and 6 seats. There's a front display screen next to the lectern but it's not that big and there's a pillar blocking line of sight from some angles. But that shouldn't be an issue for this size of class.</li>
+  <li>JCMB 4325C: Medium sized teaching studio, 8 island tables, each with screen and 6 seats. There's a front projection screen, a bit bigger than 1206C. Lines of sight are good. This is a favourite out of the JCMB studios!</li>
+  <li>JCMB 3211:  Small teaching studio, 4 tables, each with screen and 6 seats. There's a good sized front screen but the room shape makes it hard to see it from some angles.</li>
 </ul>
 </p>
 
@@ -155,9 +155,9 @@ special instructions.
 <ul>
   <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
-  <li> JCMB 1206C: Best entrance is the JCMB North entrance. This is the one along the north side of the building rather than the main entrance. It's accessible via the footpath between the main entrance towards KB Entrance 4. So Biologists should probably find this quite easily. Once you enter the north entrance, turn right and the room is the first on the right. Accessibility note: The outer doors of the North entrance are automatic, but there are a set of manual double doors just beyond them. An alternative possible route for wheelchair users is to enter via the main entrance, then head along the long corridor that starts just beyond the post room until you get to the goods lift (on the right). Take the goods lift down to level 1, then the room is on your left. All doors on this route are either automatic are normally kept open. Note that the main passenger lifts do not go down to level 1!
-   <li> JCMB 4325C: Best to enter via the main entrance. Take the lifts or stairs up to level 4. Coming out of the lift, turn right, then right all the way down the corridor. There are some manual doors to open near the room, but they're single and reasonably light.
-   <li> JCMB 3211: Best to enter via the main entrance. The room is first on the left immediately after the first flight of stairs, so easy to find. Alternatively people can use the main passenger lifts. There are automatic doors available all the way, except for the door to the room itself.
+  <li>JCMB 1206C: Best entrance is the JCMB North entrance. This is the one along the north side of the building rather than the main entrance. It's accessible via the footpath between the main entrance towards KB Entrance 4. So Biologists should probably find this quite easily. Once you enter the north entrance, turn right and the room is the first on the right. Accessibility note: The outer doors of the North entrance are automatic, but there are a set of manual double doors just beyond them. An alternative possible route for wheelchair users is to enter via the main entrance, then head along the long corridor that starts just beyond the post room until you get to the goods lift (on the right). Take the goods lift down to level 1, then the room is on your left. All doors on this route are either automatic are normally kept open. Note that the main passenger lifts do not go down to level 1!</li>
+   <li>JCMB 4325C: Best to enter via the main entrance. Take the lifts or stairs up to level 4. Coming out of the lift, turn right, then right all the way down the corridor. There are some manual doors to open near the room, but they're single and reasonably light.</li>
+   <li>JCMB 3211: Best to enter via the main entrance. The room is first on the left immediately after the first flight of stairs, so easy to find. Alternatively people can use the main passenger lifts. There are automatic doors available all the way, except for the door to the room itself.</li>
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
