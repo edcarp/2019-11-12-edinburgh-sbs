@@ -10,11 +10,11 @@ humandate: "12 November (JCMB 1206C); 13 November (JCMB 4325C); 19 November (JCM
 humantime: "14:00 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-11-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-11-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Evgenij Belikov, David McKain, Mike Wallis"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Edward Wallace, TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Evgenij Belikov, David McKain, Mike Wallis, Angela Chitzanidi"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Edward Wallace, Lora Boteva, Al Ivens, Yen Peng Chew,"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["Edward.Wallace@ed.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:   https://pad.carpentries.org/2019-11-12-edinburgh-sbs          # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: 78641431639  # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -77,6 +77,8 @@ workshop is only open to people from a particular institution.
 {% include lc/who.html %}
 {% endif %}
 
+This is focused on researchers at the University of Edinburgh's School of Biological Sciences, but is open to others within the university.
+
 {% comment %}
 LOCATION
 
@@ -95,6 +97,17 @@ address.
   <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
 </p>
 {% endif %}
+
+<p id="wheremore">
+This is held in 3 different rooms within the JCMB: 
+
+<ul>
+  <li>JCMB 1206C: Large teaching studio containing 12 island tables, each with a screen and 6 seats. There's a front display screen next to the lectern but it's not that big and there's a pillar blocking line of sight from some angles. But that shouldn't be an issue for this size of class.
+  <li>JCMB 4325C: Medium sized teaching studio, 8 island tables, each with screen and 6 seats. There's a front projection screen, a bit bigger than 1206C. Lines of sight are good. This is my favourite out of the JCMB studios!
+  <li>JCMB 3211:  Small teaching studio, 4 tables, each with screen and 6 seats. There's a good sized front screen but the room shape makes it hard to see it from some angles.
+</ul>
+
+
 
 {% comment %}
 DATE
@@ -141,6 +154,9 @@ special instructions.
 <ul>
   <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
+  <li> JCMB 1206C: Best entrance is the JCMB North entrance. This is the one along the north side of the building rather than the main entrance. It's accessible via the footpath between the main entrance towards KB Entrance 4. So Biologists should probably find this quite easily. Once you enter the north entrance, turn right and the room is the first on the right. Accessibility note: The outer doors of the North entrance are automatic, but there are a set of manual double doors just beyond them. An alternative possible route for wheelchair users is to enter via the main entrance, then head along the long corridor that starts just beyond the post room until you get to the goods lift (on the right). Take the goods lift down to level 1, then the room is on your left. All doors on this route are either automatic are normally kept open. Note that the main passenger lifts do not go down to level 1!
+   <li> JCMB 4325C: Best to enter via the main entrance. Take the lifts or stairs up to level 4. Coming out of the lift, turn right, then right all the way down the corridor. There are some manual doors to open near the room, but they're single and reasonably light.
+   <li> JCMB 3211: Best to enter via the main entrance. The room is first on the left immediately after the first flight of stairs, so easy to find. Alternatively people can use the main passenger lifts. There are automatic doors available all the way, except for the door to the room itself.
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
@@ -150,6 +166,7 @@ special instructions.
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
+
 
 {% comment %}
 CONTACT EMAIL ADDRESS
