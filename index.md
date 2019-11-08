@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "JCMB, King's Buildings (various rooms)"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "JCMB, University of Edinburgh"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "James Clerk Maxwell Building, Peter Guthrie Tait Road, Edinburgh, EH9 3FD "      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "uk"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
@@ -18,6 +18,9 @@ eventbrite: 78641431639  # optional: alphanumeric key for Eventbrite registratio
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
+
+<p>
+  Introduction ot Unix shell and Eddie
 
 {% comment %}
 HEADER
@@ -77,7 +80,12 @@ workshop is only open to people from a particular institution.
 {% include lc/who.html %}
 {% endif %}
 
-This is focused on researchers at the University of Edinburgh's School of Biological Sciences, but is open to others within the university.
+<p style="font-size:20px"> 
+  Introduction to Unix Shell and Eddie
+</p>
+<p>
+This workshop is focused on researchers at the University of Edinburgh's School of Biological Sciences, but is open to others within the university. The workshop will focus on the unix command line and how to run programs on Eddie, the university's computing cluster. It is appropriate for beginners, those who want to refresh their skills, or for those who wish to learn how to run pipelines (e.g. genomics) on the university's powerful central compute clusters.
+</p>
 
 {% comment %}
 LOCATION
