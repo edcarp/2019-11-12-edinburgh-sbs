@@ -66,6 +66,10 @@ the pitch.
 {% include lc/intro.html %}
 {% endif %}
 
+<p> 
+  <b>Introduction to Unix Shell and Eddie.</b> This workshop will focus on the unix command line shell and how to run programs on Eddie, the university's computing cluster. 
+</p>
+
 {% comment %}
 AUDIENCE
 
@@ -80,11 +84,9 @@ workshop is only open to people from a particular institution.
 {% include lc/who.html %}
 {% endif %}
 
-<p style="font-size:20px"> 
-  Introduction to Unix Shell and Eddie
-</p>
+
 <p>
-This workshop is focused on researchers at the University of Edinburgh's School of Biological Sciences, but is open to others within the university. The workshop will focus on the unix command line and how to run programs on Eddie, the university's computing cluster. It is appropriate for beginners, those who want to refresh their skills, or for those who wish to learn how to run pipelines (e.g. genomics) on the university's powerful central compute clusters.
+This workshop is focused on researchers at the <a href="https://www.ed.ac.uk/biology">University of Edinburgh's School of Biological Sciences</a>, but is open to others within the university. It is appropriate for beginners, those who want to refresh their skills, or for those who wish to learn how to run pipelines (e.g. genomics) on the university's powerful central compute clusters.
 </p>
 
 {% comment %}
