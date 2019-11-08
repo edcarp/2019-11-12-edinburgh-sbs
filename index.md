@@ -19,9 +19,6 @@ eventbrite: 78641431639  # optional: alphanumeric key for Eventbrite registratio
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
-<p>
-  Introduction ot Unix shell and Eddie
-
 {% comment %}
 HEADER
 
