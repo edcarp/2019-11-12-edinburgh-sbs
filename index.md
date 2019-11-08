@@ -106,6 +106,7 @@ This is held in 3 different rooms within the JCMB:
   <li>JCMB 4325C: Medium sized teaching studio, 8 island tables, each with screen and 6 seats. There's a front projection screen, a bit bigger than 1206C. Lines of sight are good. This is my favourite out of the JCMB studios!
   <li>JCMB 3211:  Small teaching studio, 4 tables, each with screen and 6 seats. There's a good sized front screen but the room shape makes it hard to see it from some angles.
 </ul>
+</p>
 
 
 
